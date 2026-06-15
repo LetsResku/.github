@@ -1,3 +1,6 @@
+<!-- Divider -->
+---
+
 <!-- Alignment -->
 <div align="center">
   <!-- Banner -->
