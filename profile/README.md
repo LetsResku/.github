@@ -20,6 +20,6 @@
 <div align="center">
   <!-- Pronunciation -->
   <a href="https://www.youtube.com/watch?v=g2r1qrb_7bQ">
-  <img width="150" height="50" alt="reskuPronunciation" src="https://github.com/user-attachments/assets/0c1d6da7-7986-423e-b3a5-8a51dd2ea6b9" />
+    <img width="150" height="50" alt="reskuPronunciation" src="https://github.com/user-attachments/assets/0c1d6da7-7986-423e-b3a5-8a51dd2ea6b9" />
   </a>
 </div>
